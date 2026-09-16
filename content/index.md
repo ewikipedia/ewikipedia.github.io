@@ -2,10 +2,8 @@
 title: "🚀 Bienvenidos a mi Jardín Digital"
 ---
 
-# Areas de mi vida ([[Reflexion porque ya no uso indices]])
+# Areas de mi vida
 1. [[bachillerato]] 
 
 **Contacto:** 📩 efectowikipedia@gmail.com
 
-# Que es esto y porque esta aqui
-[[Origen y objetivo del efecto wikipedia]]
