@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-home: true
+title: "🚀 Bienvenidos a mi Jardín Digital"
 ---
 
 # Areas de mi vida ([[Reflexion porque ya no uso indices]])

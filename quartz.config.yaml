@@ -82,7 +82,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -158,11 +158,16 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Explorer
+      folderClickBehavior: collapse  # 👈 ESTO Cambia el link por el despliegue nativo
+      folderDefaultState: collapsed  # (Opcional) Empiezan cerradas
+      useSavedState: true            # Recuerda qué carpetas tenías abiertas
     layout:
       position: left
       priority: 50
