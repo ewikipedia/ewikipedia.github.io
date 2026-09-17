@@ -45,9 +45,9 @@ La continuidad en un punto se puede determinar usando limites eso lo veremos mas
 
 Si esta condición no se cumple, existe una discontinuidad. 
 
-- Discontinuidad Evitable 
-- Discontinuidad De Salto Infinito: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una linea discontinua por la cual no hay función
-- Discontinuidad De Salto Finito 
+1. [[Discontinuidad evitable ejemplo.png|Discontinuidad evitable]]: Una función a la que solo le falta un punto en la línea el cual esta mas arriba o abajo de donde deberia 
+2. Discontinuidad De Salto Infinito: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una linea discontinua por la cual no hay función
+3. Discontinuidad De Salto Finito 
 
 ---
 
