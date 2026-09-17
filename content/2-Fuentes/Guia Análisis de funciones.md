@@ -1,15 +1,14 @@
-Análisis de funciones
 
 Analizar una función consiste en estudiar sus características principales para comprender cómo se comporta y poder representarla.
 
 ¿Qué debemos analizar?
 
-1. Dominio
+## 1. Dominio
 
 El dominio es el conjunto de valores de $x$ para los que la función está definida.
 
 $$
-D_f
+Domf(x)
 $$
 
 Para encontrarlo debemos buscar posibles restricciones, como:
@@ -20,14 +19,14 @@ Para encontrarlo debemos buscar posibles restricciones, como:
 
 ---
 
-2. Recorrido
+## 2. Recorrido
 
 El recorrido es el conjunto de valores de $y$ que puede tomar la función.
 
 Se representa como:
 
 $$
-R_f
+Rec f(x) = (y_{1},y_{2})
 $$
 
 Es decir, nos preguntamos:
@@ -38,7 +37,7 @@ El recorrido puede determinarse estudiando la función, sus extremos y su gráfi
 
 ---
 
-3. Continuidad y discontinuidades
+## 3. Continuidad y discontinuidades
 
 Una función es continua en un punto $x=a$ cuando no presenta ningún salto, agujero o interrupción en ese punto.
 
@@ -52,14 +51,14 @@ Si esta condición no se cumple, existe una discontinuidad en ese punto.
 
 ---
 
-4. Puntos de corte
+## 4. Puntos de corte
 
 Buscamos dónde la función corta los ejes coordenados.
 
 Eje $Y$
 
-Hacemos:
-
+Sustituimos la $x$:
+	
 $$
 x=0
 $$
@@ -92,7 +91,7 @@ $$
 
 ---
 
-5. Crecimiento y decrecimiento
+## 5. Crecimiento y decrecimiento
 
 Estudiamos dónde la función crece y dónde decrece.
 
@@ -120,7 +119,7 @@ la función decrece.
 
 ---
 
-6. Máximos y mínimos
+## 6. Máximos y mínimos
 
 Buscamos posibles extremos mediante:
 
@@ -136,7 +135,7 @@ Después comprobamos si el punto corresponde a un máximo o a un mínimo.
 
 ---
 
-8. Asíntotas
+## 8. Asíntotas
 
 A partir de los límites podemos estudiar si la función tiene asíntotas.
 
@@ -148,7 +147,7 @@ Las principales son:
 
 ---
 
-9. Representación gráfica
+## 9. Representación gráfica
 
 Finalmente reunimos la información obtenida para representar la función.
 
@@ -162,5 +161,5 @@ Podemos tener en cuenta:
 - Máximos y mínimos.
 - Asíntotas.
 
-«[!tip] Idea clave
-Analizar una función no consiste solamente en calcular cosas. Se trata de utilizar esos resultados para entender cómo se comporta la función.»
+>[!tip] Idea clave
+Analizar una función no consiste solamente en calcular cosas. Se trata de utilizar esos resultados para entender cómo se comporta la función.
