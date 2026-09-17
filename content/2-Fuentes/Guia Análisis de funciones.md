@@ -52,7 +52,7 @@ La continuidad en un punto se puede determinar usando [[Continuidad a partir de 
 Si esta condición no se cumple, existe una discontinuidad. Existen 3 tipos principales:
 
 1. [[Discontinuidad evitable ejemplo.png|Discontinuidad evitable]]: Una función a la que solo le falta un punto en la línea el cual esta mas arriba o abajo de donde debería 
-2. ![[Discontinuidad de salto infinito ejemplo.png|Discontinuidad de salto infinito]]: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una línea discontinua por la cual no hay función
+2. [[Discontinuidad de salto infinito ejemplo.png|Discontinuidad de salto infinito]]: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una línea discontinua por la cual no hay función
 3. [[Discontinuidad de salto finito ejemplo.png|Discontinuidad de salto finito]] 
 
 ---
