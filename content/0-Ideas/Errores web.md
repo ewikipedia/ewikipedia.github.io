@@ -1,0 +1,5 @@
+- Porque demonios cuesta tanto de poner en marcha bueno en fin
+- que rayos pasa con las notas que desaparecen por un segundo 
+- Tengo que mejorar los colores
+- Aligerar la carga de trabajo en la web y mejorar la carga de trabajo en los estudios. Mientras la web funcione no tocar nada
+- etc

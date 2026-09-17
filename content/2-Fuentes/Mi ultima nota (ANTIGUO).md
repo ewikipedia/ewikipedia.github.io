@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 # Esta nota ha sido creada el 06 de marzo del 2025
 Esta nota es un mensaje para quien quiera leerlo si esque alguien quiere en ella solo voy a comentar porque el sentimiento de pegarme un tiro y acabar con toda esta frustración de no poder hablar con alguien o al menos no tanto como me gustaría. hace un par de semanas conocí y hable bastante con Mareliz y todavia a fecha de hoy no le he podido explicar todo esto que me atormenta por dentro mas de lo que yo creía.
 Pero total seguro que mi cabeza tiene razon y que eso no se vaya a convertir en una amistad porque aunque sea verdad que me siento mas comodo al hablar con Mareliz que con otras persona pero llevo sin poder hablar con ella o con otra persona en general desde el día de los examenes de certificacion a parte no quiero incomodar a nadie y no tengo muchas esperanzas de encontrar a nadie más.
