@@ -1,8 +1,8 @@
-Tipos de funciones
+# Tipos de funciones
 
 Existen diferentes tipos de funciones, cada una con unas características y un comportamiento particular.
 
-1. Función lineal
+## 1. Función lineal
 
 Una función lineal tiene la forma:
 
@@ -16,7 +16,7 @@ Su representación gráfica es una recta.
 
 ---
 
-2. Función cuadrática
+## 2. Función cuadrática
 
 Una función cuadrática tiene la forma:
 
@@ -32,7 +32,7 @@ El valor de $a$ determina si la parábola se abre hacia arriba o hacia abajo.
 
 ---
 
-3. Función racional
+## 3. Función racional
 
 Una función racional es el cociente de dos polinomios:
 
@@ -52,7 +52,7 @@ Puede presentar asíntotas.
 
 ---
 
-4. Función irracional
+## 4. Función irracional
 
 Una función irracional contiene una raíz en la expresión de la función.
 
@@ -72,7 +72,7 @@ Esto afecta a su dominio.
 
 ---
 
-5. Función exponencial
+## 5. Función exponencial
 
 Una función exponencial tiene la forma:
 
@@ -90,7 +90,7 @@ Su crecimiento o decrecimiento depende del valor de $a$.
 
 ---
 
-6. Función logarítmica
+## 6. Función logarítmica
 
 Una función logarítmica tiene la forma:
 
