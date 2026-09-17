@@ -1,5 +1,5 @@
 ---
-title: "🚀 Bienvenidos a mi Jardín Digital"
+title: "🚀 A Estudiar"
 ---
 
 # Areas de mi vida
