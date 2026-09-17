@@ -1,3 +1,8 @@
+# ==Fuentes==
+- Clases de 2 bachillerato 
+- Libro Matemáticas fáciles collección chuletas para bachillerato
+
+# ==Notas==
 
 Analizar una función consiste en estudiar sus características principales para comprender cómo se comporta y poder representarla.
 
@@ -34,6 +39,7 @@ Es decir, nos preguntamos:
 «¿Qué valores puede alcanzar $f(x)$?»
 
 El recorrido puede determinarse estudiando la función, sus extremos y su gráfica.
+NOTA: El Recorrido se mira en el eje y NO X.
 
 ---
 
@@ -41,13 +47,13 @@ El recorrido puede determinarse estudiando la función, sus extremos y su gráfi
 
 Una función es continua si podemos representarla sin levantar el lápiz, es decir dibujarla por completo con un solo trazo. 
 
-La continuidad en un punto se puede determinar usando limites eso lo veremos mas adelante
+La continuidad en un punto se puede determinar usando [[Continuidad a partir de limites|limites]] eso lo veremos mas adelante
 
-Si esta condición no se cumple, existe una discontinuidad. 
+Si esta condición no se cumple, existe una discontinuidad. Existen 3 tipos principales:
 
-1. [[Discontinuidad evitable ejemplo.png|Discontinuidad evitable]]: Una función a la que solo le falta un punto en la línea el cual esta mas arriba o abajo de donde deberia 
-2. Discontinuidad De Salto Infinito: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una linea discontinua por la cual no hay función
-3. Discontinuidad De Salto Finito 
+1. [[Discontinuidad evitable ejemplo.png|Discontinuidad evitable]]: Una función a la que solo le falta un punto en la línea el cual esta mas arriba o abajo de donde debería 
+2. ![[Discontinuidad de salto infinito ejemplo.png|Discontinuidad de salto infinito]]: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una línea discontinua por la cual no hay función
+3. [[Discontinuidad de salto finito ejemplo.png|Discontinuidad de salto finito]] 
 
 ---
 
@@ -55,8 +61,7 @@ Si esta condición no se cumple, existe una discontinuidad.
 
 Buscamos dónde la función corta los ejes coordenados.
 
-Eje $Y$
-
+Eje $Y$: 
 Sustituimos la $x$:
 	
 $$
@@ -163,3 +168,21 @@ Podemos tener en cuenta:
 
 >[!tip] Idea clave
 Analizar una función no consiste solamente en calcular cosas. Se trata de utilizar esos resultados para entender cómo se comporta la función.
+
+---
+# Ejemplos
+## Puntos de corte 
+Eje $x$ $y = 0$
+$y = 2x^2+8x+10$
+
+Igualamos la $y$ a 0 
+
+$0 = 2x^2 + 8x + 10$
+
+Resolvemos con la formula famosa y que yo odio:
+
+$$
+
+x = -8
+
+$$
