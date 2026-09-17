@@ -8,7 +8,7 @@ Analizar una función consiste en estudiar sus características principales para
 El dominio es el conjunto de valores de $x$ para los que la función está definida.
 
 $$
-Domf(x)
+Domf(x) = (x_{1},x_{2})
 $$
 
 Para encontrarlo debemos buscar posibles restricciones, como:
@@ -39,15 +39,15 @@ El recorrido puede determinarse estudiando la función, sus extremos y su gráfi
 
 ## 3. Continuidad y discontinuidades
 
-Una función es continua en un punto $x=a$ cuando no presenta ningún salto, agujero o interrupción en ese punto.
+Una función es continua si podemos representarla sin levantar el lápiz, es decir dibujarla por completo con un solo trazo. 
 
-Para que una función sea continua en $a$ deben cumplirse:
+La continuidad en un punto se puede determinar usando limites eso lo veremos mas adelante
 
-$$
-\lim_{x\to a}f(x)=f(a)
-$$
+Si esta condición no se cumple, existe una discontinuidad. 
 
-Si esta condición no se cumple, existe una discontinuidad en ese punto.
+- Discontinuidad Evitable 
+- Discontinuidad De Salto Infinito: Cuando la función se corta y crece o decrece al infinito como norma general suele tener una asíntota. Una linea discontinua por la cual no hay función
+- Discontinuidad De Salto Finito 
 
 ---
 
