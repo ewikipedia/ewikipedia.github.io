@@ -3,6 +3,7 @@
 - Libro Matemáticas fáciles collección chuletas para bachillerato
 
 # ==Notas==
+Etiquetas: [[bachillerato]]
 
 Analizar una función consiste en estudiar sus características principales para comprender cómo se comporta y poder representarla.
 
@@ -36,8 +37,7 @@ $$
 
 Es decir, nos preguntamos:
 
-    ¿Qué valores puede alcanzar $f(x)$?
-
+«¿Qué valores puede alcanzar $f(x)$?»
 
 El recorrido puede determinarse estudiando la función, sus extremos y su gráfica.
 NOTA: El Recorrido se mira en el eje y NO X.
@@ -99,10 +99,29 @@ $$
 
 ## 5. Crecimiento y decrecimiento
 
-Estudiamos dónde la función crece y dónde decrece. (Osea donde ganamos y perdemos dinero en la bolsa xd)
+Estudiamos dónde la función crece y dónde decrece.
 
-Creciente cuando $x_1<x_2$ y $f(x_1)>f(x_2)$
+Para ello podemos utilizar la primera derivada:
 
+$$
+f'(x)
+$$
+
+Si:
+
+$$
+f'(x)>0
+$$
+
+la función crece.
+
+Si:
+
+$$
+f'(x)<0
+$$
+
+la función decrece.
 
 ---
 
