@@ -1,4 +1,8 @@
+# ==Fuente==
 
+
+# ==Notas==
+etiquetas: [[bachillerato]]
 
 Existen diferentes tipos de funciones, cada una con unas características y un comportamiento particular.
 
