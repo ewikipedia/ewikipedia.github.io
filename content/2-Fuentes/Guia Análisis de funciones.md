@@ -62,7 +62,7 @@ Si esta condición no se cumple, existe una discontinuidad. Existen 3 tipos prin
 
 Buscamos dónde la función corta los ejes coordenados.
 
-Eje $Y$: 
+Eje $Y$: [[Guia Análisis de funciones#Puntos de corte]]
 Sustituimos la $x$:
 	
 $$
