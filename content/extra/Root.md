@@ -1,5 +1,7 @@
 ---
 title: Casa
+aliases:
+  - Casa
 ---
 
 
