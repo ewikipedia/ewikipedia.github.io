@@ -1,7 +1,5 @@
 ---
 title: Casa
-aliases:
-  - 000Casa
 ---
 
 
