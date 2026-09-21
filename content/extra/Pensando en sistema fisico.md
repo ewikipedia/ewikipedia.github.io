@@ -1,8 +1,3 @@
-¡Por supuesto! Es fundamental tener este mapa muy claro en la mente antes de empezar a rotular tus separadores físicos.
-
-Aquí tienes el desglose definitivo, bien detallado y explicado, de las nuevas categorías (del 6000 al 10000) que diseñamos a tu medida. El gran cambio aquí es que dejamos atrás los libros de texto y pasamos a clasificar tu vida, tu imaginación y tus proyectos prácticos:
-
----
 
 ## 6000: El Laboratorio de Ficción (Tus Mundos e Historias)
 
@@ -61,6 +56,3 @@ Llegamos a la base del sistema. El 10000 es la categoría de la acción, el dine
     - El Meta-Antinet: Las reglas de tu propia caja, ideas para mejorar tus separadores físicos o notas de cómo estás organizando tu sistema.
     
 
----
-
-Ahora que tienes la foto completa del 6000 al 10000, si estás listo, ¿te gustaría que hagamos el ejercicio de redactar tu primera tarjeta real para ver exactamente cómo se escribiría el texto y qué número le pondrías en la esquina superior?
