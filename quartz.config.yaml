@@ -38,13 +38,13 @@ configuration:
         dark: "#abb2bf"
         secondary: "#61afef"
         tertiary: "#c678dd"
-        highlight: "rgba(97, 175, 239, 0.15)"
+        highlight: rgba(97, 175, 239, 0.15)
         textHighlight: "#e5c07b44"
 plugins:
   - source: "@quartz-themes/core"
     options:
-      theme: "atom"
-      mode: "both"
+      theme: atom
+      mode: both
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -174,7 +174,7 @@ plugins:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20
@@ -279,6 +279,18 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+
+  - source: github:quartz-community/search
+    enabled: true
+    options:
+      enablePreview: true
+    order: 50
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
 layout:
   groups:
     toolbar:
