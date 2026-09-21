@@ -1,3 +1,7 @@
+---
+aliases:
+  - Casa
+---
 
 
 # Empecé con Obsidian hace `= (date(today)-date(2024-07-30))` 
