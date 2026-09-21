@@ -1,6 +1,5 @@
 ---
-aliases:
-  - "Casa"
+title: Casa
 ---
 
 
