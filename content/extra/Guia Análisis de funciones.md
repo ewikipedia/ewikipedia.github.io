@@ -3,7 +3,7 @@
 - Libro Matemáticas fáciles collección chuletas para bachillerato
 
 # ==Notas==
-Etiquetas: [[bachillerato]]
+Etiquetas: [[Bachillerato]]
 
 Analizar una función consiste en estudiar sus características principales para comprender cómo se comporta y poder representarla.
 

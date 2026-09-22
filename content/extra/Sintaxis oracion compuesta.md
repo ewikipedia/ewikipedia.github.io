@@ -1,5 +1,5 @@
 
-Etiquetas: [[Fuente]] [[bachillerato]]
+Etiquetas: [[Fuente]] [[Bachillerato]]
 # ==Fuente==
 https://www.educa2.madrid.org/web/mi-clase-de-lengua-4-eso/lengua/-/visor/oraciones-coordinadas-y-yuxtapuestas?authuser=0
 # ==Notas==

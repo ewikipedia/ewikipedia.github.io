@@ -1,8 +1,4 @@
----
-title: Casa
----
 
-id: 000Casa
 
 # Empecé con Obsidian hace `= (date(today)-date(2024-07-30))` 
 
