@@ -7,8 +7,8 @@ Para resumir, resulta que nos han mentido los clones existen y los platanos son 
 
 ---
 
-Clones existed since 10000 bC (on Neolitic) the best example for that are bananas, yeah the bananas you eat for breakfast, this is because commercial bananas have no seeds and this have advantage and disadvantages.
+Clones existed since 10000 bC (on Neolitic) the best example for that are bananas, yeah the same bananas you eat for breakfast, this is because commercial bananas have no seeds and this have advantage and disadvantages.
 
-It is unknow that bananas are clones of each other since bananas seeds don´t exist, bananas are hybrids of some ancient plants. That give us bananas, a fruit that grow without father and makes the plant vulnarable to some infections because if one plant get sick all the plants around the world can also and all die, this occurs between 1950 and 1960 when a bacteria kills all bananas of Gros's Michel variation. 
+It is unknow that bananas are clones of each other since bananas seeds don´t exist, bananas are hybrids of some ancient plants. That give us bananas, a fruit that grow without father and makes the plant vulnerable to some infections because if one plant get sick all the plants around the world can also and all die, this occurs between 1950 and 1960 when a bacteria kills all bananas of Gros's Michel variation. 
 
 To sum up, clones existed and its confusing because they are consumable and vulnerable, enjoy bananas while you can because on a blink they can be all gone, forever.
