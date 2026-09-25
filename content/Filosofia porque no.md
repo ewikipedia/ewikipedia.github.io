@@ -49,4 +49,23 @@ Los aficionados del futbol ven este deporte de forma mas pasional y competitiva 
 - Anaximandro de mileto *aperion* Es el primero en decir que la tierra no es plana y el primero y el primero en intentar explicar de donde venimos de forma racional
 - Anaximedes *Aire* 
 - Heráclito de efeso *Fuego* El mundo esta en constante movimiento 
-- 
+
+# Filosofia me quiero morir dia 2026-09-25
+Parmenides va a decir que en el cambio nose puede sacar nada verdadero, es un conflicto no viven en sintonia. parmenides dice que el arge no existe y el video dice que es mas dieciocho. 
+Dice que si no habia nada no se puede generar algo de la nada, cualquier tipo de cambiar iimplicaria pasar del ser al no ser, la consecuencia de este razonamiento es que el mmovimient no es posible.  Por esta razón el cree que no existe ningun arge. 
+Partia de la razón de que los sentidos nos engañan. 
+
+Pitagoras es del siglo 5 aC pitagoras y los pitagoricos fueron una especie de secta que se guiaba con los numeros para hacer filosofia. Filosofia la cual guardaban en secreto todo el conocimiento matematico que desarrollaron.
+
+Tretracys. Para ellos el 10 era el numero perfecto
+
+Los pitagoricos decian que el alma era inmortal y que existe un dualismo alma cuerpo. De esta misma manera creian que el conocimiento era inmortal. 
+
+Empodecles creia que el arje era un elemento poco realista. El creia que el arje era los cuatro elementos (agua, tierra, aire, fuego.) en base a dos fuerzas en odio y amor
+
+Anaxagoras. el creia que todo esta compuesto de semillas, cada elemento tiene semillas de varios elementos para mayormente del elemento que se ve desde fuera. usando el nous como inteligencia que crea las cosas. Muy aburrido todo esto es . 
+Para el la mano fue la razón de nuestra inteligencia. 
+
+Democrito, fue el primero que filosofando que deberia existir el atomo que significa algo que no puede ser divisible. 
+También tuve gran impacto en el ambito moral, diciendo que debemos ser honestos a nosotros mismo, y creia que la democracia era el mejor sistema de gobierno. y con esto termina el aburrimiento de video. 
+
