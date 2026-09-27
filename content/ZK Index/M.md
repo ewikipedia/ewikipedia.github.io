@@ -1,1 +1,1 @@
-[[5200.Medicina]]
+[[5200 Medicina]]

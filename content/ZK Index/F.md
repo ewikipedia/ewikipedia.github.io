@@ -1,1 +1,1 @@
-[[1200.Filosofia]]
+[[1200 Filosofia]]

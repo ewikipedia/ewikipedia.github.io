@@ -1,1 +1,1 @@
-[[5220.Psicologia]]
+[[5220 Psicologia]]
