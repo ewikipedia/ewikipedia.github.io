@@ -72,3 +72,7 @@ También tuve gran impacto en el ambito moral, diciendo que debemos ser honestos
 # Socrates y sofistas. 
 Estructura  Social dividida en Nobles Pueblo y esclavos (pueden ser por deudas) 
 Se combraban impuestos 
+
+El arte de convencer a las personas con la palabra lo llamaremos retorica
+
+Realidad: No existe una verdad sino opiniones sobre las cosas
