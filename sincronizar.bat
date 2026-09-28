@@ -22,7 +22,7 @@ if %errorlevel% neq 0 goto error
 echo.
 echo Sincronizacion completada con exito!
 pause
-
+exit
 
 :error
 echo.
