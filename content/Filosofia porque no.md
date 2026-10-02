@@ -5,7 +5,6 @@
 - Que sentido tiene estar aqui
 - Que hay detras de la muerte
 - La ia se rie de nosotros 
-- 
 # Notas 
 En la filosofia nos daremos cuenta de que cada epoca tiene unas caracteristicas diferentes, una de las cosas en las que coincidimos es mas o menos en la literatura. Ej. Una persona griega y nosotros podemos estar ambos buscando la felicidad
 
