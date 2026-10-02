@@ -1,5 +1,5 @@
 ---
-title: "🚀 A Estudiar"
+title: "🚀 Ingeniero Analogico"
 ---
 
 # ==O APRENDES O TE VAS== lo que sea pero aprendes
