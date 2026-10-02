@@ -1,5 +1,5 @@
 # ==Fuentes==
-- Clases de 2 bachillerato 
+- Clases de 2 [[bachillerato]] 
 - Libro Matemáticas fáciles collección chuletas para bachillerato
 
 # ==Notas==

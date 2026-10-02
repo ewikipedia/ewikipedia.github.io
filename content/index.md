@@ -11,3 +11,5 @@ title: "🚀 A Estudiar"
 
 **Contacto:** 📩 efectowikipedia@gmail.com
 
+# Índice
+- Aquí el índice son los archivos con las letras o categorías. Úsalo para no perderte. 
