@@ -2,7 +2,7 @@
 title: "🚀 Ingeniero Analogico"
 ---
 
-# ==O APRENDES O TE VAS== lo que sea pero aprendes
+# ==🔴O APRENDES O TE VAS== lo que sea pero aprendes
 # Notas recientes y relevantes
 [[Guia Análisis de funciones]]
 [[Sintaxis oracion compuesta]]
